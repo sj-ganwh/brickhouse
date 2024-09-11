@@ -16,6 +16,7 @@ package brickhouse.udf.sketch;
  *
  **/
 
+import org.apache.hadoop.hive.ql.exec.Description;
 import org.apache.hadoop.hive.ql.exec.UDF;
 
 import javax.crypto.Cipher;
